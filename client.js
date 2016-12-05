@@ -2,7 +2,6 @@
 //time the corresponding color is clicked. Also, as each color (button) is clicked, it should
 //increment the corresponding label. HTML and CSS are provided, the focus here is jQuery.
 
-//var output = '';
 var i = 1;
 
 $(document).ready(function() {
